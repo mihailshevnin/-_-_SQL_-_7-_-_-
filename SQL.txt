@@ -1,6 +1,6 @@
 
 
-1.Задание
+1.Р—Р°РґР°РЅРёРµ
 
 SELECT "Couriers"."login", COUNT(DISTINCT "Orders"."track") as "orders_in_delivery"
 FROM "Couriers"
@@ -12,7 +12,7 @@ GROUP BY "Couriers"."login";
 
 
 
-2.Задание
+2.Р—Р°РґР°РЅРёРµ
 
 SELECT "track",
        CASE
