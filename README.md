@@ -1,4 +1,4 @@
-#Scevnin_Mihail_Final_Venus07
+
 import requests
 
 # URL для создания заказа
